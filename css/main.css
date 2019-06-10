@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #ecf7f9;
+    background-color: #f7f7f7;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -20,8 +20,8 @@ img {
 }
 
 img:hover {
-  opacity: 0.5;
-  filter: alpha(opacity=50); /* For IE8 and earlier */
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 a {
     text-decoration: none;
